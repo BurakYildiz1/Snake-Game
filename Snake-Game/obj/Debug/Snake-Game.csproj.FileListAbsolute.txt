@@ -1,0 +1,7 @@
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\bin\Debug\Snake-Game.exe.config
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\bin\Debug\Snake-Game.exe
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\bin\Debug\Snake-Game.pdb
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\obj\Debug\Snake-Game.csprojAssemblyReference.cache
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\obj\Debug\Snake-Game.csproj.CoreCompileInputs.cache
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\obj\Debug\Snake-Game.exe
+C:\Users\cang3\source\repos\Snake-Game\Snake-Game\obj\Debug\Snake-Game.pdb
